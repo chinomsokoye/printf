@@ -2,7 +2,7 @@
 
 ## Concepts
 
-_For this project, look at these concepts:_
+**_For this project, look at these concepts:_**
 
 * [Group Projects](https://www.alx-intranet.hbtn.io/concepts/111)
 * [Pair Programming - How To](https://www.alx-intranet.hbtn.io/concepts/121)
@@ -11,7 +11,7 @@ _For this project, look at these concepts:_
 
 ## Background Context
 
-Write your own **_printf_** function.
+**Write your own **_printf_** function.**
 
 ## Resources
 
@@ -24,3 +24,5 @@ Write your own **_printf_** function.
 **man or help:**
 
 * **_printf (3)_**
+
+## General Project
